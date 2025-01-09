@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzFunctionsEgEhSbStg", "src\AzFunctionsEgEhSbStg.csproj", "{BBEDA0CD-3E3E-49ED-8828-759B7A528782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionTests", "tests\FunctionTests.csproj", "{44B85BBA-D4EF-4D2C-B66D-34FB1B361267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBEDA0CD-3E3E-49ED-8828-759B7A528782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEDA0CD-3E3E-49ED-8828-759B7A528782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBEDA0CD-3E3E-49ED-8828-759B7A528782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEDA0CD-3E3E-49ED-8828-759B7A528782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B85BBA-D4EF-4D2C-B66D-34FB1B361267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B85BBA-D4EF-4D2C-B66D-34FB1B361267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B85BBA-D4EF-4D2C-B66D-34FB1B361267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B85BBA-D4EF-4D2C-B66D-34FB1B361267}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
